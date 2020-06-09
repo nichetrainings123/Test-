@@ -1,4 +1,4 @@
-DDDDDTTTTTTT
+XXXXXXXXXXXXX
 
 second test 
    CWID: 50229614    */
