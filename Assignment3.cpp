@@ -19,7 +19,7 @@ class STACK
       link head;
 
     public:
-      STACK()
+      STACK();;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 	  {
       		head = NULL;
 	  }
